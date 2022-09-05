@@ -26,4 +26,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UliaKarpova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :loudspeaker: Мои контакты:
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzmKu-wwUA5bBsDoR2Laczewr1zCw3lL8DeA&usqp=CAU" width="20"/> uv-carpova@yandex.ru
+  
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png" width="20"/> https://t.me/Ulia_Karpova
+
+
+
 
